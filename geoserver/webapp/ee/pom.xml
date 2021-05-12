@@ -13,7 +13,7 @@
     <gt.version>13-SNAPSHOT</gt.version>
     <jetty.version>7.6.13.v20130916</jetty.version>
     <spring.version>3.2.10.RELEASE</spring.version>
-    <spring.security.version>3.2.4.RELEASE</spring.security.version>
+    <spring.security.version>5.2.10.RELEASE</spring.security.version>
   </properties>
 
   <dependencyManagement>
