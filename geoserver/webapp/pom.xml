@@ -50,7 +50,7 @@
   <properties>
     <gs.version>2.7-SNAPSHOT</gs.version>
     <gt.version>13-SNAPSHOT</gt.version>
-    <jetty.version>7.6.13.v20130916</jetty.version>
+    <jetty.version>9.4.41.v20210516</jetty.version>
     <spring.version>3.2.10.RELEASE</spring.version>
     <spring.security.version>3.2.4.RELEASE</spring.security.version>
   </properties>
